@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Catching_Fire" size="0.250000 0.344769" />
+    <ImageTarget name="Calculus" size="0.250000 0.322500" />
+  </Tracking>
+</QCARConfig>
